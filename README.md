@@ -14,7 +14,7 @@ Save chrome tabs as sessions
 
 ## Technologies Used
 ---
-1. HTML/CSS and JS 
+1. HTML , CSS and JS 
 2. Moment.js for date and time parsing
 
 ## How to Install
